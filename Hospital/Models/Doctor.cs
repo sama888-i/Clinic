@@ -4,7 +4,7 @@ namespace Hospital.Models
 {
     public class Doctor:BaseEntity
     {
-        [MaxLength (32)]
+      
         public string Name { get; set; } = null!;
         public string? ImageUrl { get; set; }
         public int? DepartmentId { get; set; }

@@ -17,49 +17,49 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hospital
 build_property.RootNamespace = Hospital
-build_property.ProjectDir = C:\Users\ll novbe\source\repos\Hospital\Hospital\
+build_property.ProjectDir = C:\Users\Asus\OneDrive\Masaüstü\Clinic\Hospital\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ll novbe\source\repos\Hospital\Hospital
+build_property.MSBuildProjectDirectory = C:\Users\Asus\OneDrive\Masaüstü\Clinic\Hospital
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Areas/Admin/Views/DashBoard/Index.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Areas/Admin/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaEJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Areas/Admin/Views/Department/Index.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Areas/Admin/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Views/Home/Index.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Views/Shared/_Layout.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Views/_ViewImports.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ll novbe/source/repos/Hospital/Hospital/Views/_ViewStart.cshtml]
+[C:/Users/Asus/OneDrive/Masaüstü/Clinic/Hospital/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

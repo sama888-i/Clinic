@@ -11,9 +11,13 @@ namespace Hospital.DataAccsess
 
 
         public HospitalDbContext(DbContextOptions opt) : base(opt) { }
-        
 
-        
-       
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(HospitalDbContext).Assembly);
+            base.OnModelCreating(modelBuilder);
+        }
+
+
     }
 }

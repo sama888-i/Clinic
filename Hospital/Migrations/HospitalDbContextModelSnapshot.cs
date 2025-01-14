@@ -38,10 +38,13 @@ namespace Hospital.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasMaxLength(32)
+                        .HasColumnType("nvarchar(32)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("Name")
+                        .IsUnique();
 
                     b.ToTable("Departments");
                 });
@@ -82,7 +85,8 @@ namespace Hospital.Migrations
                 {
                     b.HasOne("Hospital.Models.Department", "Department")
                         .WithMany("Doctors")
-                        .HasForeignKey("DepartmentId");
+                        .HasForeignKey("DepartmentId")
+                        .OnDelete(DeleteBehavior.SetNull);
 
                     b.Navigation("Department");
                 });
